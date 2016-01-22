@@ -12,5 +12,8 @@ The distortion corrected image and its accompanying mask are the result and a cr
 
 Tested on Java 8 and Netbeans 8+.
 
+Based on Altera's **A Flexible Architecture for Fisheye Correction in Automotive
+Rear-View Cameras**.
+
 Enjoy.
 

@@ -1,4 +1,8 @@
 # Fisheycorrections
+
+Co-developed with Sotiris. Thank you :-)
+
+
 Experiment with equisolid or equidistant corrections.
 
 I created this java classes to experiment with possible distortion corrections on Go Pro hero 4 cameras.
